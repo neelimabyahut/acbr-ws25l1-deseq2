@@ -12,3 +12,9 @@ Activate the R4.5WS conda environment as follows
 ```(cmd)
 conda activate R4.5WS
 ```
+-install R4.5 IN THE r4.5WS conda environment
+```{CMD}
+conda install conda-forge::r-base
+```
+`conda-forge` is the channel from anaconda.org. [conda-forge/r-base](https://anaconda.org/conda-forge/r-base) 
+
