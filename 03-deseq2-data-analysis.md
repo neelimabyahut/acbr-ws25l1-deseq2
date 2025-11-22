@@ -101,7 +101,6 @@ ggvolcano(data_df,
     x = "log2FoldChange", y = "padj",
     label = "row", label_number = 10, 
     output = FALSE)
-
 ```
 
 
